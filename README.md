@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h2 align="center">InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior</h2>
+  <h2 align="center">InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior [SANDBOXING]</h2>
   <p align="center">
     <a href="https://johanan528.github.io/"><strong>Zhiheng Liu*</strong></a>
     ·
